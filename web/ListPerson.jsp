@@ -58,7 +58,7 @@
 </tr> 
 
 </c:forEach>
-
+  <tr><td>2014.11.11<td/><tr>
 </table>
 <a href="CreatePerson.jsp"><strong>Create a Person Record</strong></a>
 </body>
